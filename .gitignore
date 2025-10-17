@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian
+.obsidian/
+
+# Backup files
+*.bak
+*~
+
+# Build outputs
+*.pdf
+*.html
+_build/
+site/
+
+# Node modules (if using MkDocs or similar)
+node_modules/
+
+# Python (if using mkdocs)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
